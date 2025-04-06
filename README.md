@@ -1,2 +1,2 @@
-# processing-practice
+# Processing Practice
 Processingの練習用リポジトリ
